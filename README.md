@@ -19,7 +19,7 @@ This will install the required dependencies: flask, transformers, torch, sentenc
 - navigate to App directory
 - pipenv shell
 - python app.py
-- open Browser and copy and paste URL (typically: http://127.0.0.1:5000/)
+- open Browser and copy and paste URL indicated in prompt (typically: http://127.0.0.1:5000/)
 
 ## User Interface
 
