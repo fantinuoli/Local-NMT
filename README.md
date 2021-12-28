@@ -1,4 +1,4 @@
-# Local-NMT: Run a pre-trained Machine Translation engine with UI on your local computer
+# Run a pre-trained Huggingface Machine Translation engine with UI on your local computer
 
 ## Installation
 
