@@ -21,5 +21,7 @@ This will install the required dependencies: flask, transformers, torch, sentenc
 - python app.py
 - open Browser and copy and paste URL (typically: http://127.0.0.1:5000/)
 
+## User Interface
 
+![alt text](screen.jpg?raw=true "User Interface")
  
