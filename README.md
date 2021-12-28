@@ -2,7 +2,7 @@
 
 ## Installation
 
-On your machine you need to have Python and an VirtualEnv (in this example [pipenv](https://pypi.org/project/pipenv/)) installed.
+You need to have Python, [Torch](https://pytorch.org/get-started/locally/) and an VirtualEnv (in this example [pipenv](https://pypi.org/project/pipenv/)) installed on your machine.
 
 In case of `pipenv`, clone the repository on your local machine:
 
