@@ -1,4 +1,4 @@
-# Local-NMT: Tutorial to run a pre-trained Machine Translation engine with UI on your local computer
+# Local-NMT: Running a pre-trained Machine Translation engine with UI on your local computer
 
 ## Installation
 
