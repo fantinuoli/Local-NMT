@@ -23,5 +23,5 @@ This will install the required dependencies: flask, transformers, torch, sentenc
 
 ## User Interface
 
-![alt text](screen.jpg?raw=true "User Interface")
+![alt text](screen.png?raw=true "User Interface")
  
