@@ -1,4 +1,4 @@
-# Local-NMT: Running a pre-trained Machine Translation engine with UI on your local computer
+# Local-NMT: Run a pre-trained Machine Translation engine with UI on your local computer
 
 ## Installation
 
@@ -13,8 +13,11 @@ In case of `pipenv`, clone the repository on your local machine:
 
 This will install the required dependencies: flask, transformers, torch, sentencepiece
 
+## Pre-trained translation models
+Refer to the [Huggingface](https://huggingface.co/Helsinki-NLP) page for a list of all pre-trained Helsinki MT models. See the language code of the model in the last two parts of the model name (for example `opus-mt-it-en` for Italian to English).
+
 ## Run
-- modify the desired language combination directly in app.py, where `source_lang`is the ISO code for the source and `target_lang` for the target language. The corresponding language model, if available, will be automatically downloaded.
+- modify the desired language combination directly in app.py, where `source_lang`is the language code for the source and `target_lang` for the target language (as in the model name). The corresponding language model will be automatically downloaded.
 - open Terminal/Shell
 - navigate to App directory
 - pipenv shell
@@ -24,4 +27,7 @@ This will install the required dependencies: flask, transformers, torch, sentenc
 ## User Interface
 
 ![alt text](screen.png?raw=true "User Interface")
+
+## License
+Apache License 2.0
  
