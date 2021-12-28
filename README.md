@@ -2,7 +2,7 @@
 
 ## Installation
 
-You need to have Python, [Torch](https://pytorch.org/get-started/locally/) and an VirtualEnv (in this example [pipenv](https://pypi.org/project/pipenv/)) installed on your machine.
+You need to have Python, [Tensorflow](https://www.tensorflow.org/install), [Torch](https://pytorch.org/get-started/locally/) and an VirtualEnv (in this example [pipenv](https://pypi.org/project/pipenv/)) installed on your machine. Please refer to the respective installation pages.
 
 In case of `pipenv`, clone the repository on your local machine:
 
