@@ -2,7 +2,7 @@
 
 ## Installation
 
-You need to have Python (3.8 or 3.9), [Tensorflow](https://www.tensorflow.org/install), [Torch](https://pytorch.org/get-started/locally/) and any VirtualEnv tool (in this example [pipenv](https://pypi.org/project/pipenv/)) installed on your machine. Please refer to the respective installation pages.
+You need to have Python (3.8 or 3.9), [Tensorflow](https://www.tensorflow.org/install), [Torch](https://pytorch.org/get-started/locally/) and any VirtualEnv tool (in this example [pipenv](https://pypi.org/project/pipenv/)) installed on your machine. Please refer to the respective installation pages should you have any problem during installation.
 
 The following supposes you are using `pipenv` as virtual environment management, but it will work with any other (just substitute `pipenv`with the usual way you install modules):
 
