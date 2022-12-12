@@ -32,5 +32,5 @@ Refer to the [Huggingface](https://huggingface.co/Helsinki-NLP) page for a list 
 ![alt text](screen.png?raw=true "User Interface")
 
 ## License
-Apache License 2.0
+MIT
  
